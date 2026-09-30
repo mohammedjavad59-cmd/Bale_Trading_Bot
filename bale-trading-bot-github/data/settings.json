@@ -1,7 +1,0 @@
-{
-  "bot": {"bale_enabled": true},
-  "strategies": {
-    "ny_orb": {"enabled": true, "scan_interval": 20, "cooldown": 0, "max_signals_per_day": null, "one_signal_per_candle": true},
-    "vwap_wick_rejection": {"enabled": true, "scan_interval": 20, "cooldown": 0, "max_signals_per_day": null, "one_signal_per_candle": true}
-  }
-}
